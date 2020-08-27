@@ -1,0 +1,13 @@
+.header{
+   text-align:center;
+    background-color:rgb(196, 134, 40);
+    font-size:20px;
+    padding:20px
+    
+}
+#your{
+    margin-right:150px;
+}
+.header:hover{
+    background-color:rgb(100, 40, 40);
+}
